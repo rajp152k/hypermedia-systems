@@ -1,4 +1,4 @@
 # Hypermedia Systems
 
-  - Code written when reading Hypermedia Systems
+  - A pass on Hypermedia-Systems
 	- https://hypermedia.systems
